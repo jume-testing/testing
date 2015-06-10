@@ -1,0 +1,30 @@
+{
+  "html": {
+    "use": true
+  },
+  "cpp": {
+    "use": true
+  },
+  "cpp11": {
+    "namespace": [
+      ""
+    ],
+    "single_file": true,
+    "class_export": "srgshshdhdrhdrhdrhdhrdrh"
+  },
+  "ws": {
+    "port": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "c89": {
+    "namespace": [
+      ""
+    ]
+  }
+}
