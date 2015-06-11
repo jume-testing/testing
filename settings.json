@@ -6,6 +6,7 @@
     "use": true
   },
   "cpp11": {
+    "use": true,
     "namespace": [
       ""
     ],
