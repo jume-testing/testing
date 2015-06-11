@@ -12,6 +12,11 @@
     "single_file": true,
     "class_export": "srgshshdhdrhdrhdrhdhrdrh"
   },
+  "c89": {
+    "namespace": [
+      ""
+    ]
+  },
   "ws": {
     "port": [
       "",
@@ -19,11 +24,6 @@
       "",
       "",
       "",
-      ""
-    ]
-  },
-  "c89": {
-    "namespace": [
       ""
     ]
   }
